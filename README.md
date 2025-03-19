@@ -1,16 +1,19 @@
-## Hi there 👋
+# 💫 About Me:
+Soy Guzmán Fernando Nahuel, un apasionado Analista de Sistemas y Desarrollador de Software con más de 5 años de experiencia en el diseño y desarrollo de soluciones tecnológicas que optimizan procesos empresariales. Mi experiencia se extiende desde la creación de aplicaciones web hasta el desarrollo de sistemas de gestión complejos, utilizando tecnologías como React TS, PHP, y JavaScript.<br><br>🤝 Buscando colaborar en:<br><br>Estoy interesado en proyectos que busquen innovar en el uso de tecnologías para la mejora de procesos empresariales, especialmente en entornos web y sistemas de gestión.<br><br>🆘 Buscando ayuda con:<br><br>Siempre estoy abierto a aprender más sobre nuevas tecnologías y metodologías ágiles que puedan complementar y mejorar mi enfoque en el desarrollo de software.<br><br>📚 Actualmente aprendiendo:<br><br>Me encuentro finalizando mi Licenciatura en Tecnologías Educativas en la Universidad Tecnológica Nacional, con especial enfoque en la integración de tecnologías educativas en el desarrollo de software.<br><br>💬 Pregúntame sobre:<br><br>No dudes en preguntarme sobre desarrollo web, manejo de bases de datos, o cualquier consulta sobre cómo implementar mejores prácticas de TI en procesos empresariales.<br><br>⚡ Dato curioso:<br><br>He participado en el desarrollo de múltiples proyectos que van desde sistemas de gestión interna hasta aplicaciones web públicas, lo que me ha permitido tener una visión integral del ciclo de desarrollo de software.
 
-<!--
-**FNGuzman/FNGuzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=FNGuzman&limit=5&theme=react&combine_all_yearly_contributions=true)
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/f.n.guzman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-nahuel-guzman-66909b1b0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nahuel1432@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FNGuzman&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=FNGuzman&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FNGuzman&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=FNGuzman&icon=0&color=1)](https://visitcount.itsvg.in)
